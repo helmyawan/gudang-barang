@@ -195,6 +195,7 @@ if( !isset($_SESSION['user']) )
         </div>
       </div>
     </main>
+	  <center>Made with <span style="color: #e25555;">&hearts;</span> Helmyawan S.N</center>
         <!--end of content-->
 
 
